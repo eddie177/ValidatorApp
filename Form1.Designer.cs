@@ -87,6 +87,7 @@
             txtCV.Location = new Point(606, 80);
             txtCV.Multiline = true;
             txtCV.Name = "txtCV";
+            txtCV.PlaceholderText = "Paste your CV here...";
             txtCV.Size = new Size(300, 175);
             txtCV.TabIndex = 8;
             // 
@@ -111,11 +112,11 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(632, 44);
+            label1.Location = new Point(716, 44);
             label1.Name = "label1";
-            label1.Size = new Size(229, 20);
+            label1.Size = new Size(83, 20);
             label1.TabIndex = 10;
-            label1.Text = "Paste CV text here and click parse";
+            label1.Text = "CV Validtor";
             // 
             // label2
             // 
