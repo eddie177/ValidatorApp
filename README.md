@@ -61,4 +61,4 @@ English, Arabic
 
 ## 🎥 Project Demo
 
-https://github.com/eddie177/ValidatorApp/blob/3d08835baea8145af7cd0ba58529bf242cf46e0f/Assets/Validation.mp4
+[Download the Demo Video](Assets/Validation.mp4)
