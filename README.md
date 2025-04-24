@@ -59,3 +59,6 @@ English, Arabic
 - **Regular Expressions (Regex)**
 - **.NET Framework**
 
+## 🎥 Project Demo
+
+[Click here to watch the demo video](Assets/Validation.mp4)
