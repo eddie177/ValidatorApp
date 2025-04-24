@@ -1,6 +1,6 @@
 Example CV:
 
-<pre> ```
+<pre>
 Name: Khaled Tahran  
 Email: khaled.tahran@nmu.edu.eg
 Phone: +201065321598
@@ -23,4 +23,4 @@ Modern Institute of Technology – 2019
 
 Languages:  
 English, Arabic
-``` </pre>
+</pre>
