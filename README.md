@@ -59,6 +59,13 @@ English, Arabic
 - **Regular Expressions (Regex)**
 - **.NET Framework**
 
+## 🖼️ Project Snapshot
+
+<p align="center">
+  <img src="Assets/snapshot.png" alt="Project Snapshot" width="600"/>
+</p>
+
+
 ## 🎥 Project Demo
 
 [Download the Demo Video](Assets/Validation.mp4)
